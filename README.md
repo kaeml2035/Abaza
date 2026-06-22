@@ -638,8 +638,8 @@
         ──────────────────────────────────────────── */
         const SEQS = [
             { cmd: 'whoami',            out: 'Abdelrahman_abaza' },
-            { cmd: 'ping backbone',     out: 'Reply 0ms — All nodes reachable' },
-         /*   { cmd: 'status --infra',    out: '● IPTV Stack  ●  Core Network  →  ONLINE' },
+         /*   { cmd: 'ping backbone',     out: 'Reply 0ms — All nodes reachable' },
+            { cmd: 'status --infra',    out: '● IPTV Stack  ●  Core Network  →  ONLINE' },
             { cmd: 'stack --active',    out: 'DVB · Exterity · Anevia · Python 3 · Linux' },
             { cmd: 'engine --mode',     out: 'Automation Engine  →  Running  [v3.2.1]' } */
         ];
